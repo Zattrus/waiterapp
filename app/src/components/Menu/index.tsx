@@ -3,7 +3,7 @@ import { products } from "../../mocks/products";
 import { Text } from "../Text";
 
 import { useState } from "react";
-import { Product } from "../../types/product";
+import { Product } from "../../types/Product";
 import { formatCurrency } from "../../utils/formatCurrency";
 import { PlusCircle } from "../Icons/PlusCircle";
 import { ProductModal } from "../ProductModal";
